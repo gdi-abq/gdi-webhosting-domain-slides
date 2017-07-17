@@ -1,6 +1,6 @@
 # Webhosting & Domains
 
-Slides and materials are hosted at [http://github.io/ethomas12/gdi-abq/gdi-sldes-template](http://github.io/ethomas12/gdi-abq/gdi-sldes-template).
+Slides and materials are hosted at [https://gdi-abq.github.io/gdi-webhosting-domain-slides/](https://gdi-abq.github.io/gdi-webhosting-domain-slides/).
 
 ## Course description
 
